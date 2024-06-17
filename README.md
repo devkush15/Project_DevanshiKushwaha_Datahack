@@ -1,1 +1,2 @@
 # Project_DevanshiKushwaha_Datahack
+This model predicts the likelihood of individuals receiving two types of vaccines (xyz vaccine and seasonal flu vaccine) using a machine learning. The approach involves : loading the datasets, preprocessing the data to handle missing values and encode categorical variables, and training a Random Forest Classifier within a multi-output classification framework. We calculate the mean ROC AUC score for the predictions.
